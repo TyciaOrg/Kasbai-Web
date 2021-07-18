@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Kalam-Bold';
+    src: local('Kalam-Bold'), url(./fonts/kalam/Kalam-Bold.ttf) format('truetype');
+}
+  
+@font-face {
+    font-family: 'Kalam-Light';
+    src: local('Kalam-Light'), url(./fonts/kalam/Kalam-Light.ttf) format('truetype');
+}
+  
+@font-face {
+    font-family: 'Kalam-Regular';
+    src: local('Kalam-Regular'), url(./fonts/kalam/Kalam-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Laila-Bold';
+    src: local('Laila-Bold'), url(./fonts/Laila/Laila-Bold.ttf) format('truetype');
+}
+  
+@font-face {
+    font-family: 'Laila-Medium';
+    src: local('Laila-Medium'), url(./fonts/Laila/Laila-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Laila-Light';
+    src: local('Laila-Light'), url(./fonts/Laila/Laila-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Laila-SemiBold';
+    src: local('Laila-SemiBold'), url(./fonts/Laila/Laila-SemiBold.ttf) format('truetype');
+}
+ 
+  
+@font-face {
+    font-family: 'Laila-Regular';
+    src: local('Laila-Regular'), url(./fonts/Laila/Laila-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Nirmala';
+    src: local('Nirmala'), url(./fonts/Nirmala/Nirmala.ttf) format('truetype');
+}
+  
+@font-face {
+    font-family: 'NirmalaB';
+    src: local('NirmalaB'), url(./fonts/Nirmala/NirmalaB.ttf) format('truetype');
+}
+
+
+  
